@@ -180,14 +180,16 @@ ul {
     background-color: #0070ff;
 }
 
-.fa-brands {
+.hero-icon {
     font-size: 1.2rem;
     margin-right: 1rem;
     cursor: pointer;
+    text-decoration: none;
+    color: #0070ff;
 }
 
-.fa-brands:hover,
-.fa-brands:focus-within {
+.hero-icon:hover,
+.hero-icon:focus-within {
     color: #0070ff;
 }
 
